@@ -1,0 +1,16 @@
+2021-03-06 23:53:46.5752|DEBUG|GopalAPIDemo.Program|Initializing main
+2021-03-06 23:53:49.3629|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-06 23:53:49.3875|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-06 23:53:49.4836|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo
+2021-03-06 23:56:23.1907|DEBUG|GopalAPIDemo.Program|Initializing main
+2021-03-06 23:56:24.3243|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-06 23:56:24.3385|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-06 23:56:24.3385|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo
+2021-03-06 23:59:18.9072|DEBUG|GopalAPIDemo.Program|Initializing main
+2021-03-06 23:59:20.3108|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-06 23:59:20.3266|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-06 23:59:20.3266|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo
+2021-03-07 00:00:15.2626|DEBUG|GopalAPIDemo.Program|Initializing main
+2021-03-07 00:00:16.5199|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-07 00:00:16.5363|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-07 00:00:16.5363|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo

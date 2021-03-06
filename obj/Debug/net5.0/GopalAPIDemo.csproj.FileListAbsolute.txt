@@ -1,0 +1,277 @@
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.Development.json
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.json
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.config
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.exe
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.deps.json
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.json
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.dev.json
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ref/GopalAPIDemo.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.pdb
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Google.Protobuf.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/MySql.Data.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Zstandard.Net.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Newtonsoft.Json.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Extensions.Logging.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Web.AspNetCore.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Common.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Interfaces.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.MySql.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Redis.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Text.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Renci.SshNet.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csprojAssemblyReference.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfoInputs.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfo.cs
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CoreCompileInputs.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.Manifest.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.xml
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/scopedcss/bundle/GopalAPIDemo.styles.css
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorTargetAssemblyInfo.cache
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CopyComplete
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/ref/GopalAPIDemo.dll
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.pdb
+F:/WorkStuff/Office work/.NET Core/Gopal API/Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.genruntimeconfig.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.Development.json
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.json
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.config
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.exe
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.deps.json
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.json
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.dev.json
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ref/GopalAPIDemo.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.pdb
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Google.Protobuf.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/MySql.Data.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Zstandard.Net.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Newtonsoft.Json.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Extensions.Logging.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Web.AspNetCore.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Common.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Interfaces.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.MySql.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Text.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Renci.SshNet.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csprojAssemblyReference.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfoInputs.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfo.cs
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CoreCompileInputs.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorTargetAssemblyInfo.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CopyComplete
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/ref/GopalAPIDemo.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.pdb
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.genruntimeconfig.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.Views.dll
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.Views.pdb
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorAssemblyInfo.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorAssemblyInfo.cs
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.TagHelpers.input.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.TagHelpers.output.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorCoreGenerate.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorTargetAssemblyInfo.cs
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.Views.pdb
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.Manifest.cache
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.xml
+F:/WorkStuff/Office work/Azure/MiracleCloud Study Azure/Demo Prep and Content/App Service Demo/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/scopedcss/bundle/GopalAPIDemo.styles.css
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.Development.json
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/appsettings.json
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.config
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.deps.json
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.json
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.runtimeconfig.dev.json
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ref/GopalAPIDemo.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.pdb
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.Views.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/GopalAPIDemo.Views.pdb
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Google.Protobuf.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/MySql.Data.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Zstandard.Net.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Extensions.Logging.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/NLog.Web.AspNetCore.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Common.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Interfaces.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.OrmLite.MySql.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Redis.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/ServiceStack.Text.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Renci.SshNet.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/SshNet.Security.Cryptography.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/System.Xml.XPath.XmlDocument.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csprojAssemblyReference.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfoInputs.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.AssemblyInfo.cs
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CoreCompileInputs.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorAssemblyInfo.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorAssemblyInfo.cs
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.Manifest.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/staticwebassets/GopalAPIDemo.StaticWebAssets.xml
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/scopedcss/bundle/GopalAPIDemo.styles.css
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.TagHelpers.input.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.TagHelpers.output.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorCoreGenerate.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorTargetAssemblyInfo.cache
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.RazorTargetAssemblyInfo.cs
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.Views.pdb
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.csproj.CopyComplete
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/ref/GopalAPIDemo.dll
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.pdb
+/home/azureuser/Desktop/GopalAPIDemo/GopalAPIDemo/obj/Debug/net5.0/GopalAPIDemo.genruntimeconfig.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\appsettings.Development.json
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\appsettings.json
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\NLog.config
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.exe
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.deps.json
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.runtimeconfig.json
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.runtimeconfig.dev.json
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ref\GopalAPIDemo.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.pdb
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.Views.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\GopalAPIDemo.Views.pdb
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Google.Protobuf.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\MySql.Data.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Zstandard.Net.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\NLog.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.Common.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.OrmLite.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.OrmLite.MySql.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.Redis.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\ServiceStack.Text.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Renci.SshNet.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.csprojAssemblyReference.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.AssemblyInfoInputs.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.AssemblyInfo.cs
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.csproj.CoreCompileInputs.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.RazorAssemblyInfo.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.RazorAssemblyInfo.cs
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\staticwebassets\GopalAPIDemo.StaticWebAssets.Manifest.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\staticwebassets\GopalAPIDemo.StaticWebAssets.xml
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\scopedcss\bundle\GopalAPIDemo.styles.css
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.TagHelpers.input.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.TagHelpers.output.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.RazorCoreGenerate.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.RazorTargetAssemblyInfo.cache
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.RazorTargetAssemblyInfo.cs
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.Views.pdb
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.csproj.CopyComplete
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\ref\GopalAPIDemo.dll
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.pdb
+F:\WorkStuff\Office work\Azure\MiracleCloud Study Azure\Demo Prep and Content\Virtual Machine Demo\GopalAPIDemo\GopalAPIDemo\GopalAPIDemo\obj\Debug\net5.0\GopalAPIDemo.genruntimeconfig.cache
