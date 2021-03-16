@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="RKITAppServiceDemo" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\WorkStuff\\Office\ work\\Azure\\MiracleCloud\ Study\ Azure\\Demo\ Prep\ and\ Content\\App\ Service\ Demo\\GopalAPIDemo\\GopalAPIDemo\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\WorkStuff\\Office\ work\\Azure\\MiracleCloud\ Study\ Azure\\Demo\ Prep\ and\ Content\\Virtual\ Machine\ Demo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo\\bin\\Release\\net5\.0\\publish\\$" />
   </parameter>
 </parameters>
