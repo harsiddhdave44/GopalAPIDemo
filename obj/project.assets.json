@@ -8056,19 +8056,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HARSIDDH DAVE\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WorkStuff\\Office work\\Azure\\MiracleCloud Study Azure\\Demo Prep and Content\\Virtual Machine Demo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo.csproj",
+      "projectUniqueName": "D:\\GopalAPIDemo\\GopalAPIDemo.csproj",
       "projectName": "GopalAPIDemo",
-      "projectPath": "F:\\WorkStuff\\Office work\\Azure\\MiracleCloud Study Azure\\Demo Prep and Content\\Virtual Machine Demo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo.csproj",
-      "packagesPath": "C:\\Users\\HARSIDDH DAVE\\.nuget\\packages\\",
-      "outputPath": "F:\\WorkStuff\\Office work\\Azure\\MiracleCloud Study Azure\\Demo Prep and Content\\Virtual Machine Demo\\GopalAPIDemo\\GopalAPIDemo\\GopalAPIDemo\\obj\\",
+      "projectPath": "D:\\GopalAPIDemo\\GopalAPIDemo.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\GopalAPIDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HARSIDDH DAVE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8141,7 +8141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
